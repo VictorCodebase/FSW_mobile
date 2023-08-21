@@ -3,15 +3,6 @@
 # Contributing to FSW
 Ps - This application is built up from the flutter game template.
 
-This assumes you have an Android emulator,
-iOS Simulator, or an attached physical device.
-
-It is often convenient to develop your game as a desktop app.
-For example, you can run `flutter run -d macOS`, and get the same UI
-in a desktop window on a Mac. That way, you don't need to use a
-simulator/emulator or attach a mobile device. This template supports
-desktop development by disabling integrations like AdMob for desktop.
-
 **Contributions and collaborations are more than welcome**
 
 # Development
@@ -23,6 +14,12 @@ To run the app in debug mode:
 
 
 # Template Readme:
+
+It is often convenient to develop your game as a desktop app.
+For example, you can run `flutter run -d macOS`, and get the same UI
+in a desktop window on a Mac. That way, you don't need to use a
+simulator/emulator or attach a mobile device. This template supports
+desktop development by disabling integrations like AdMob for desktop.
 
 ## Code organization
 
