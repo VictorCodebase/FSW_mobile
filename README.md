@@ -1,31 +1,7 @@
-A starter game in Flutter with all the bells and whistles
-of a mobile (iOS & Android) game including the following features:
+# FSW - Fidgety Space Worriors(MOBILE)
 
-- sound
-- music
-- main menu screen
-- settings
-- ads (AdMob)
-- in-app purchases
-- games services (Game Center & Google Play Games Services)
-- crash reporting (Firebase Crashlytics)
-
-
-# Getting started
-
-The game compiles and works out of the box. It comes with things
-like a main menu, a router, a settings screen, and audio.
-When building a new game, this is likely everything you first need.
-
-When you're ready to enable more advanced integrations, like ads
-and in-app payments, read the _Integrations_ section below.
-
-
-# Development
-
-To run the app in debug mode:
-
-    flutter run
+# Contributing to FSW
+Ps - This application is built up from the flutter game template.
 
 This assumes you have an Android emulator,
 iOS Simulator, or an attached physical device.
@@ -36,6 +12,17 @@ in a desktop window on a Mac. That way, you don't need to use a
 simulator/emulator or attach a mobile device. This template supports
 desktop development by disabling integrations like AdMob for desktop.
 
+**Contributions and collaborations are more than welcome**
+
+# Development
+
+To run the app in debug mode:
+
+    flutter run
+
+
+
+# Template Readme:
 
 ## Code organization
 
